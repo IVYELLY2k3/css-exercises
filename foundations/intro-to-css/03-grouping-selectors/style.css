@@ -1,0 +1,13 @@
+.different1{
+    color: white;
+    background-color: black;
+}
+.different2{
+    background-color: rgb(243, 243, 17);
+}
+.different1,
+.different2{
+    font: size 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+
+}
